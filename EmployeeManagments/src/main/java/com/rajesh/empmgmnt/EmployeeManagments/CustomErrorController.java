@@ -1,4 +1,4 @@
-package com.rajesh.empmgmnt.controller;
+package com.rajesh.empmgmnt.EmployeeManagments;
 
 import org.springframework.boot.web.servlet.error.ErrorController;
 import org.springframework.stereotype.Controller;

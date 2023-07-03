@@ -1,4 +1,4 @@
-package com.rajesh.empmgmnt.model;
+package com.rajesh.empmgmnt.EmployeeManagments;
 
 import java.time.LocalDate;
 import java.util.List;

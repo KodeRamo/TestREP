@@ -1,4 +1,4 @@
-package com.rajesh.empmgmnt.controller;
+package com.rajesh.empmgmnt.EmployeeManagments;
 
 
 	
@@ -8,7 +8,7 @@ import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
 	import org.springframework.web.bind.annotation.RestController;
 
-import com.rajesh.empmgmnt.model.Employee;
+
 
 import java.time.LocalDate;
 	import java.time.Month;
