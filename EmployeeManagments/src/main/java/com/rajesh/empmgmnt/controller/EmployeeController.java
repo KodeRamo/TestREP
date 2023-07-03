@@ -1,4 +1,4 @@
- package com.rajesh.EmployeeManagment;
+ package com.rajesh.empmgmnt.controller;
 
 
 import java.util.HashMap;
@@ -12,6 +12,8 @@ import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
+
+import com.rajesh.empmgmnt.model.Employee;
 
 @RestController
 @RequestMapping("/employees")
